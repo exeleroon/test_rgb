@@ -6,7 +6,7 @@ Project sent form to the telegram bot
 
 ## Dev
 
-* https://master--q-code-test.netlify.app/password-set - site
+*  - site
 
 
 # Dependency
